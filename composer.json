@@ -1,0 +1,9 @@
+{
+    "name": "marchenko/vlada",
+    "autoload": {
+        "classmap": [
+            "api/"
+        ]
+    },
+    "require": {}
+}
